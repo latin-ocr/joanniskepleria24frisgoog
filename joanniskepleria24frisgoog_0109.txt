@@ -1,0 +1,70 @@
+Demonstratioue. Liber Ι. Δ 96
+
+XXXV. Pr op esitio. Tetragoni latus habet geometricam descriptio· ·
+nem ex angulis extra circulum, et si inscribatur circulo, ipsa est in gradu
+scientiae tertio, quadratum eJ'us in secundo, ut et area figurae. ¹
+
+Tetragonus esto 0QPR, ejus angulus, per 33. hujus, est fia 9·
+rectus, quare (Eucl. 1. 46.) facile dato latere describitur tetra- ρ
+gonus. Cumque angulos babeat quatuor lateraque totidem, duo
+ergo latera coeuntia duas circuli quartas intercipiunt, hoc est
+semissem circuli. Quare per 34. hujus extrema laterum cou-
+tiguorum connectit diameter circuli, ut Qo , QP angulum OQP
+rectum in semicirculo OQP formantia, extremis Ο, P connexa
+sunt per diametrum circuli OLP. Quare (Eucl. L 47) qua· 0
+drata duorum laterum OQ, QP aequant quadratum diametri.
+Et si dimidia pare de quadrato diametri redigatur in formam quadratam, latus ejus
+erit latua tetragonicum (Eucl. 11. 14). Ita quadratum lateris est effabile.
+
+Et quia quadratum ΟΡ est ad quadratum OQ, ut 2 ad 1, non vero ut numerus
+quadratus ad numerum quadratum, ΟΡ vero est effabilis longitudine: ergo latus OQ
+
+est effabile sola potentia (Eucl. X. 9). Area vero tetragoni est eadem iu hac figura,
+quae quadratum lateris, ergo et area figurae est effabilis. ·
+
+XXXVI. Pro p os i tio. Octogoul latus habet geometricam descriptio-
+nem ex angulis, nec minus etiam octogonicae stellae. latus, seu subtenaa tri-
+bus octavis partibus circuli, suntque in gradu scientiae octavo singula, illud
+quidem elasson, hoc vero mizon; juncta vero in gradu sexto et proportionis
+cujusdam singularis. Area denique ineffabilis est, quippe meson.
+
+Sit octogonus VQTOXR8P‚ stella vero VOSQXPTRV: cum igitur lineae binae,
+
+   
+
+verbi causa ΩΤ, ΤΟ, comprehendentes angulum octo· rig. 10.
+gonicum QTO, connectantur extremis Q, Ο, linea con-
+nectens est latus tetragoni, quia de octo semis est ,,..κ;;;,.ῑ.““·’ξ“““πἮ
+quatuor. Ergo descripto tetragono (ut alios descri- ²⁵²5ssssss --J- ² ''Q-⁵2²³?
+bendi octogoni modos omittam) in circulo, ducatur in 1 siffis& ,ςςῇ 2 fflT---fsf'
+latus ejus OQ ex centro L perpendicularis, secans la· ” :² ²³3.ss “5222 ²
+tus in M, arcum in Τ (Eucl. 1. 12), quo facto erunt Α .³.·{„..{3f²2. :²² ¹ ’Ἢ μ ῑξ.
+quartae partis circuli OQ duae partes, sc. arcus OT, ΤΓ-ἶῑζ .*.- *ff- {ts -'H÷‚,-†:“7'ls
+TQ aequales (Eucl. 111. 30). Gonnexis ergo puucth Ο ” . ,¹ 3²²²* ³2... . ’ἐμὲ
+et T, erit OT recta ‘latus octogoni, et connexis O , 8 ,Ji 'f' fjgss'ss'ssrr'gjp ’Ἃ Ι ἦρί
+erit os lama stellae. *eff-‘²‘ Ἣ ‚f 2⁶
+Connexo centro L cum Q, quia QML est rectus, ὓ ’ἐζ-..Ἢ ’.κ ”Ϊ,,.4-;“ῑ;τ”““Ἐ
+ergo QL, effabilis longitudine, potest QM et ML, potest “rammi-4:533
+
+autem QL semidiameter duplum ipsine QM semilateris
+tetragonici. Ergo QM et ML sunt aequales et utraque effabilis sola potentia per 35.
+
+hujus. Plus igitur potest LQ quam LM potentia ipsius Mo, quae longitudine est in-
+
+commensurabilis ipsi LQ. Sed sunt aequales LQ et LS et LT. Ergo composita SM ,
+
+erit binominis quarta, cujus nomina sunt SL et LM, per definit. ante X. 48 Euclidis,
+Beeidua vero MT erit apotome quarta, cujus nomina TL et LM per definitionem
+ante X. 85 Euclidis. Et quia MS binominis quarta et ST effabilis, quare per X. 57
+Eucl. linea QS, quae potest rectangulum sub ipsis, est mizon: sic quia ΤΜ est apo·
+tome quarta et TS effabilis, ergo TQ latus octauguli, potens rectangulum sub MT,
+ΤΒ, est elasson (Eucl. X. 94).
+
+Elementa illarum sunt in hac delineatione, ΡΑ majus et AT minus. Nam ad
+PA addita AT, facit ΡΤ latus stellae: rursum a PA vel YT ablata TA, relinquit AY,
+id est Qv latus octogoni. Scilicet elasson ΤΟ potest duplum prosharmozusae TA3
+et latus tetragoni QP potest utrumque elementum ΡΑ et AQ, id est AT. Et sicut
+PX mizon ad majus elementum ΡΑ, sic TQ elasson ad minus elementum TA , et vi-
+cissim, ut majus elementum PA ad minus AT, sic mizon PX ad classonem TQ. Ut
+pars major ad minorem, sic totum ad differentiam.
+

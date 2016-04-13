@@ -1,0 +1,61 @@
+100 De 'Figuratum Harmonicarum
+
+hexagoni ει FG decagoni, hoc est semidiametrum AG et sectae majorem partem AO
+simul. Haec demonstratio in Euclide difficultatem habet captus; tentabo igitur hic
+
+faciliorem.
+A terminis lateris pentagonici B, D ducantur per A centrum rectae BG ει DI:
+et ιιι DB subtendit ἧς, sic proxima DL tres et ΒΚ quatuor
+ΗΒ· ¹⁴· subtendit, secantes BG in S, R punctis. igitur LDI angulus,
+ι huam... wasuh...
+ῡεε ³⁴¹³ ffi’ss‘ssn‘uiissuffeegflfiffissifssn ²13ffi²⁷3m3⁸21⁰210¹321sffl² ..³333
+-jj‘ffi-:sss'7s4 ‚ rantis quatuor rectosqcirca A, juncti igitur SAD, ADS sunt
+'' ''fik“ “ “, ξ unius recti At omnes tres sunt γ’, ergo etiam residuus
+.‚ '‘'ffl}3.,l'··· ῃ ” DSA εει ξ. Εει igitur DSA aequalis ipsi DAS, latus igitur
+1³*v . ’Ἤ DS aequale est lateri DA semidiametro. Ergo Pel· ΡΜ ⁸0·
+t: midiametri DA proportionaliter sectae pars major ⁸0q¹¹⁸² SA:
+εει igitur SA aequalis lateri decagoni, per dicta Et DA est semidiameter, latua sc.
+hex om.
+agDico, latus pentagoni DB posse utramque et SA etAD. Connexo enim Κ cum S
+et cum A, quia DA, ΑΚ ειιιιι aequales, et DS, ΒΚ iisdem aequales, erunt et partes
+SR, RA aequaleS, et DRB rectus est. Ergo DB potest DR, RB. Atqui DR minus
+potest quam DA quantitate potentiae ΒΔ , ει BR minua potest quam BA quantitate
+et rectanguli sub BR, ΒΑ bis, et potentiae ipsius BA junctorum. Junctae igitur po-
+tentiae DR, RB minores sunt junctis potentiis DA, AB rectangulo snb BA, AB bis,
+hoc εει rectangulo sub SA, AB semel. Atqui duo rectangula sub SA, AB et sub SB,
+BA constituunt totum quadratum BA. Ablato ergo rectangulo sub SA, AB, relinqui·
+tur quadratum ipsius DA et rectangulum sub SB, BA, junctaque aequantur qna·
+drato DB. Cum vero BA. semidiameter sit proportionaliter secta in S et para major
+AS: rectangulum igitur SA, BA est aequale quadrato SA. Ergo latus pentagoni po-
+test duo quadrata DA et AS, laterum scilicet hexagoni et decagoni.⁸)
+Quod attinet stellae pentagonicae latus BF, illud est compositum ex BD vel
+FT, latere pentagoni, et ex BT, ejus secti proportionaliter parte maiori, per- XIII 8,
+quod idem etiam probari potest ex triangulo quinquangulari ΕΒΗ, ιιι supra.
+Cum igitur latus pentagoni possit semidiametrum , quae est effabilia longitudine¹
+et eius sectae proportionaliter partem majorem , ut in schemate praemisso semicircu-
+lari (8) ΡΘ potest PA etAG, et ιιι PA est ad AG, sic sit PG latus pentagoni ad latus
+
+suae stellae, sit vero ut PA ad AG, sic PG ad GX: ergo ΘΧ εει illud latus stellae .
+
+potestque et GA semidiametrum circuli circa figuram decangulam, et AX compositam
+,ex PA et AG. Quare per ibi demonstrata ΘΧ εει mizon, GP elasson. Singulae igi-
+tur sunt in octavo gradu scientiae ejusque secundo 'ordine Quia vero junctae lineae
+PG, ΘΧ faciunt quadratorum summam affabilem, sc. aequalem quadrato ΡΧ, quod εει
+ipsius GA effabilis quadrati quintuplum, eaedemque PG, ΘΧ rectangulum formant me-
+son: hoc nomine junctae PG, ΘΧ ειιιιι in gradu scientiae sexto, de quo est 18. prae-
+missa. Denique quia latus pentagoni et latus stellae sunt ut sectionis diuinae pars
+major et tota, ideo sunt etiam in gradu scientiae quarto, junctae invicem (vide 29.
+hujus). Consequitur autem has proprietateS, ut sicut pentagoni latus est classen,
+’stellae mizon, sic etiam composita ex utroque sit iterum mizon, et latus pentagoni εἰι
+huius compositae, ut mizonis, elementum minus, latus vero stellae sit illius elementum
+
+maius3 et ut etiam differentia inter utrumque latus sit aliqua classon, scilicet DQ vel
+QF, per eandem 29. hujus. ’
+
+XLIII. Propositio. Plana decagoni et pentagoni cadunt in gradus
+scientiae remotiores , ut et latus icosigoni et reliqua hujus classis figurarum
+Nam latus pentagoni ΕΗ (fig. 13) ductum inAN facit duplum FAH, quintae par-
+tis areae pentagonicae. Est vero FH classen, et· AN est talia, quae potent effabile
+AF, diminutum potentia classonis FN. Si autem, quod est ab classone, auferatur ab
+eo, quod εει ab effabili, relinquitur nova species lineae, quae potest tale residuum.
+

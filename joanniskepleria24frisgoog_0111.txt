@@ -1,0 +1,67 @@
+Demonstrationc. Liber 1. ¹ 97
+
+omnes tres anguli juncti snut aequales duobus rectis, seu sex tertiis unius recti3
+abstracto ergo angulo ad A, ²s3 a summa ει1,, restat duobus ad Ο ει G summa v„-3
+sunt vero aequales οιιιιιεε, ergo unicuique ad Ο ει G manent η, ιιιιιιιε recti, non mi-
+nus qnam verticali ad A. Atqui si tres anguli sunt aequales, oportet et latera esse
+aequalia in triangulo. Quare CG latus idem et hexagoni et trianguli, quod est sexta
+eius pars, est aequale semidiametro circuli CA vel AG. Est igitur effabile longitudine
+latus hexagoni, dimidium sc. diametri. Hic vero est gradus ΙΙ. per ¹3. huius. ι
+Jam trigoni, qui sit BCD, latus ΒΟ connectit duo latera hexagoni ΟΗ, ΗΒ, coe-
+untia ιιι Η. Οιιιιι ergo BHG sit Ἄ semicirculi, et OG ¹1¹³, arcus ergo BCG est semi-
+circulus et BG diameter, per A transiens. Ergo BCG angulus in eo εει rectus (Eucl.‚
+m 31). Quadrata igitur BC, CG aequalia sunt quadrato BG ‹Eu01.1.47). Sed OG
+est semidiameter ejusque quadratum est hnjus quadrati pars quarta; ablata igitur
+quarta parte de quadrato BG, relinquetur quadratum lateris trigonici BC. Est ergo
+quadratum hoc effabile: sed quia se non habet ad quadratum BG ut numerus qua-
+
+dratus ad quadratum nnmerum, sed ut 3 ad 4, ideo ΒΟ εει sola potentia effabilis.
+Hic vero eslt gradus tertius, per 14. hujus.
+
+Et quia BC, BD aequales, angulique BCD, BDC aequales: ergo BE perpendicu-
+laris demissa in ’OD secabit illam in E in aequales ΟΕ, ΕΙ). Erat vero effabilis sola
+potent-ia tota CD, quare et ejus dimidia ΟΕ. Rectangulum ergo sub ΟΕ, AG, sola
+potentia commensurabilibus, quarum ista est effabilis longitudine, meson est. Sed
+hoc rectangulum est aequale areae duorum triangulorum, ipsius CGA aequalium
+-(quorum sunt in hexagono sex) et sic tertiae parti areae hexagoni. Area igitur hexa-
+goni est planum meson. Et quia BCA et BCH triangula sunt laterum BA et BH,
+CA et CH aequalium, uno communi BC: habent igitur areas aequales. Sed BCH,
+BDF, CDG sunt partes hexagonicae areae, quibus illa excedit aream trigonicam ΒΟῙ),
+totidem aequalium triangulorum, BAC, CAD, DAB; dupla ergo est area hexagonica
+trigonicae. Meson igitur est etiam trigonica area, quia commensurabilis, scil. dupla
+hexagonicae, quae erat meson
+
+XXXIX. Propositio. Latera dedet-,agoni et stellae cognominis seu
+subtensae quinque duodecimis partibus circuli· geometrice describi possunt, et
+inscripta eidem circulo scibilia sunt, singula gradu octavo nobilioris cognitio-
+nis, Jnneta gradu qnint03 planum vero dodecagoni est effabile.
+
+Dodecagonus esto BMHLCKGQDPFN, stella dodecagonica BKFLDMGNCPHQB.
+Quia igitur bis sex sunt duodecim, ideo per latus hexagoni figura iisdem ex
+
+fundamentis describitur, quibus antea octogonus per 1³13.st
+
+latus tetra-goni, ducta in HC, latus hexagoni, ex A
+
+centro perpendiculari, secante latus ιιι Ο, circulum Μ ἐξ- 3
+
+51¹ Β, Ρ, et connexis L!, H pro latere dodecagoni, w ..-‘5]÷*····22‚‚
+
+Η, P pro latere= stellae. ,,.-,,ἶί,ἑ-’““””ι,’“··χ;,ς;·’ ,³ ἡ· 1
+Cum igitur HC latus sexanguli sit effabile lon· ἾέἙ-,Ι-ᾗ-κῇηῆ ,ΞΠ- 3‡·-‡'·-³'²·÷.
+
+gitudine, talis ειιι et *dimidia 1103 sed AC, aequalis , ¹ ,Ι
+ipsi ΗΟ, potest et quod a dimidio sui OC, et quod .,‚ ’ ¹³, 51 ⁵
+ab AO, ergo quadratum ipsius AO se habet ad qua· ³ “
+dratum AC vel ΑΡ, ιιι 3 ad4, non ut numerus qua· ,- - > 7„ =
+(iratus md quadratum. Sunt igitur ΡΑ,Αο sola po· svi— .- ² j·“'·'--— 4111 ’
+tentia inter se commensurabiles, ut et LA, AO. Et -ἶ,;--.
+CA, hoc est PA vel AL, major effabilis, plus po· 2:²2. Μ χι
+test quam OA minor, aliquo, quod est a CO sibi fi
+commensurabili. Ergo per des. ante X 4-9. Eucl-
+composita ΡΟ εει binominis, et per def. ante 86. OL residua est apotome, utraque
+prima cognomine. Nomina sunt ΑΡ, effabilis simpliciter, ει AO, effabilis sola po-
+tentia. Sed per X. 55. Eucl. ΗΡ, potens rectangulum sub ΟΡ, binomine prima, et
+PL effabili. est binominis, et per 92. eJusdeln HL latus dodecagoni, potens reetangm
+neptes-1 Opera V. 7
+
